@@ -1,6 +1,6 @@
-doctor_id,first_name,last_name
-1,Doctor,Annie
-2,Oz,Houser
-3,Oz,Hall
-4,Amy,Winfrey
-5,Doogie,Houser
+doctor_id,first_name,last_name,specialty,address
+1,Doctor,Annie,"General Practice","198 Knickerbocker rd, tenafly NJ 07670"
+2,Oz,Houser,"Anesthesiology,Family Practice","360 Harrison St, San Francisco, CA 94103"
+3,Oz,Hall,Dermatology,"360 Harrison St, San Francisco,CA 94103"
+4,Amy,Winfrey,"Family Practice,Neurology","1300 Lawton St Apt 301, San Francisco, CA 94122"
+5,Doogie,Houser,"Internal Medicine","2325 Washington Rd, San francisco, CA 94103"
